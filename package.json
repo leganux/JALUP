@@ -1,0 +1,26 @@
+{
+  "name": "jalup",
+  "version": "1.0.0",
+  "description": "json ajax-like url parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leganux/JALUP.git"
+  },
+  "keywords": [
+    "leganux",
+    "jalup",
+    "json",
+    "ajax",
+    "parser"
+  ],
+  "author": "Angel Erick Cruz Olivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leganux/JALUP/issues"
+  },
+  "homepage": "https://github.com/leganux/JALUP#readme"
+}
